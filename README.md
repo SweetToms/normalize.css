@@ -1,5 +1,5 @@
 # normalize.css
-A modern, HTML5-ready alternative to CSS resets.
+🍂 A modern, HTML5-ready alternative to CSS resets.
 
 <a href="https://yelloxing.github.io/npm-downloads?interval=7&packages=@yelloxing/normalize.css"><img src="https://img.shields.io/npm/dm/@yelloxing/normalize.css.svg" alt="Downloads"></a>
 <a href="https://www.npmjs.com/package/@yelloxing/normalize.css"><img src="https://img.shields.io/npm/v/@yelloxing/normalize.css.svg" alt="Version"></a>
