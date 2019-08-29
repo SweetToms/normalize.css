@@ -1,0 +1,20 @@
+{
+  "name": "@yelloxing/normalize.css",
+  "version": "0.1.0",
+  "description": "A modern, HTML5-ready alternative to CSS resets.",
+  "main": "./normalize.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelloxing/normalize.css.git"
+  },
+  "keywords": [
+    "normalize",
+    "css"
+  ],
+  "author": "心叶",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yelloxing/normalize.css/issues"
+  },
+  "homepage": "https://github.com/yelloxing/normalize.css#readme"
+}
