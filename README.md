@@ -9,7 +9,7 @@
 使用的时候遇到任何问题或有好的建议，请点击进入[issue](https://github.com/yelloxing/normalize.css/issues)！
 
 ```
-import '@yelloxing/normalize.css/index.css';
+import '@yelloxing/normalize.css';
 ```
 
 ## How to use?
