@@ -8,10 +8,6 @@
 ## Issues
 使用的时候遇到任何问题或有好的建议，请点击进入[issue](https://github.com/yelloxing/normalize.css/issues)！
 
-```
-import '@yelloxing/normalize.css';
-```
-
 ## How to use?
 如果你开发的是一个web项目，直接在页面引入即可：
 
@@ -28,7 +24,7 @@ npm install --save @yelloxing/normalize.css
 安装好了以后，在需要的地方引入即可：
 
 ```js
-import '@yelloxing/normalize.css/index.css';
+import '@yelloxing/normalize.css';
 ```
 
 ## License
