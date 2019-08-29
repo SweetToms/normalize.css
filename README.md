@@ -8,6 +8,29 @@ A modern, HTML5-ready alternative to CSS resets.
 ## Issues
 使用的时候遇到任何问题或有好的建议，请点击进入[issue](https://github.com/yelloxing/normalize.css/issues)！
 
+```
+import '@yelloxing/normalize.css/index.css';
+```
+
+## How to use?
+如果你开发的是一个web项目，直接在页面引入即可：
+
+```html
+<link rel="stylesheet" href="@yelloxing/normalize.css/index.css">
+```
+
+如果你想通过npm方式管理，首先你需要通过命令行安装，就像这样：
+
+```bash
+npm install --save @yelloxing/normalize.css
+```
+
+安装好了以后，在需要的地方引入即可：
+
+```js
+import '@yelloxing/normalize.css/index.css';
+```
+
 ## License
 
 [MIT](https://github.com/yelloxing/normalize.css/blob/master/LICENSE)
